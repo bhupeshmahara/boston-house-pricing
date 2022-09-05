@@ -1,6 +1,6 @@
 # Boston House Pricing Prediction
 
-### Software and Tools required:
+## Software and Tools required:
 
 1. [Github](https://github.com)
 2. [Heroku](https://heroku.com)
@@ -8,12 +8,9 @@
 4. [GitCLI](https://git-scm.com/)
 5. [GUnicorn](https://gunicorn.org/)
 
-Create new Environment
+## Create new Environment:
 ```
 conda create -p venv python==3.7 -y
 ```
 
-Link to the Application
-```
-[Heroku](https://boston-house-pricing-predict.herokuapp.com/)
-```
+## Link to the [Heroku Application](https://boston-house-pricing-predict.herokuapp.com/)
