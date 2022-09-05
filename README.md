@@ -12,3 +12,8 @@ Create new Environment
 ```
 conda create -p venv python==3.7 -y
 ```
+
+Link to the Application
+```
+[Heroku](https://boston-house-pricing-predict.herokuapp.com/)
+```
